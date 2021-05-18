@@ -1,0 +1,4 @@
+image==1.5.33
+python-nmap==0.6.4
+google==3.0.0
+argparse==1.4.0
